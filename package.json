@@ -1,0 +1,14 @@
+{
+  "name": "jamielesouef.com",
+  "version": "0.0.0",
+  "description": "CV Site",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "MIT"
+}
